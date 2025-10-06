@@ -1,0 +1,3 @@
+[submodule "Scripts-module"]
+	path = Scripts-module
+	url = https://github.com/Alekseyinshakov/Scripts-module.git
