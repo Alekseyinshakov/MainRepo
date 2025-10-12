@@ -1,0 +1,3 @@
+[submodule "js-repo"]
+	path = js-repo
+	url = https://github.com/Alekseyinshakov/js-repo.git
